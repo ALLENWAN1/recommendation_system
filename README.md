@@ -1,1 +1,1 @@
-This is the project for the advanced deep learning
+This is the project for the advanced machine learning
